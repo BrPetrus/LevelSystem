@@ -1,0 +1,3 @@
+* Implement package type system
+	- Folder (package1) inside different levels (Level1, Level2 ...)
+	- Config file in /Levels describing what packages to load
